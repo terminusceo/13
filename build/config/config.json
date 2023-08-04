@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc88639323b09A987c590391CACA55EAA6c32E6C5",
+  "SCAN_LINK": "https://etherscan.io/0xc88639323b09A987c590391CACA55EAA6c32E6C5",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Pendo Loom",
+  "SYMBOL": "PL",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 200000000000000000,
+  "DISPLAY_COST": 0.20000000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pendo-loom",
+  "SHOW_BACKGROUND": true
+}
