@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5C3983CA075BCDBBabdD3e9fDE8fce58154E5BA3",
+  "SCAN_LINK": "https://etherscan.io/0x5C3983CA075BCDBBabdD3e9fDE8fce58154E5BA3",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "ETHERINGS",
+  "SYMBOL": "RING",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.10000000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/etherings",
+  "SHOW_BACKGROUND": true
+}
