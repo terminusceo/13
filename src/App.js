@@ -73,7 +73,7 @@ function App() {
             <s.Text>Etherings presents a one-of-a-kind collection of 2,000 specially crafted NFTs, each representing 1,000 blocks in Ethereum's history.
               These aren't just art pieces; they're windows into time, meticulously rendered into captivating visual rings.</s.Text>
             <s.Text> Immortalizing its dynamic evolution,
-              the Etherings link you directly to significant epochs within the Ethereum universe. From transaction patterns to network changes,
+              Etherings link you directly to significant epochs within the Ethereum universe. From transaction patterns to network changes,
               every fine detail is artistically rendered into each unique NFT</s.Text>
 
 
